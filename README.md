@@ -1,1 +1,2 @@
-# AQI-LSTM-Forecasting
+The AQI Forecasting System is a machine learning-based web application that predicts future Air Quality Index (AQI) values using a Long Short-Term Memory (LSTM) neural network.
+The system fetches real-time PM2.5 air pollution data from the Open-Meteo API, converts it into standardized AQI values, and forecasts air quality for the next three days. The application also provides model evaluation metrics and interactive visualizations through a Streamlit web interface.
